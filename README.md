@@ -6,7 +6,7 @@
 </head>
 <body>
 <table style="border: 1px solid black; border-collapse: collapse;" >
-<center><caption>Біблія</caption></center>
+<caption>Біблія</caption>
 <thead>
   <tr>
     <td style="border: 1px solid black">Рік</td>
