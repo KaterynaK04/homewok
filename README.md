@@ -3,10 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Статискика за 5 років продажу улюленої книги</title>
 </head>
 <body>
 <table style="border: 1px solid black; border-collapse: collapse;" >
-<caption>Статискика за 5 років продажу улюленої книги</caption>
+<caption>Біблія</caption>
 <thead>
   <tr>
     <td style="border: 1px solid black">Рік</td>
