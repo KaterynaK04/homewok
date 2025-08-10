@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+<table style="border: 1px solid black; border-collapse: collapse;" >
+<caption>Статискика за 5 років продажу улюленої книги</caption>
+<thead>
+  <tr>
+    <td style="border: 1px solid black">Рік</td>
+    <td style="border: 1px solid black">Кількість проданих примірників</td>
+    <td style="border: 1px solid black">Дохід від продажі</td>
+  </tr>
+</thead>
+<tr>
+  <td style="border: 1px solid black">2020</td>
+  <td style="border: 1px solid black">95.0</td>
+  <td style="border: 1px solid black">1425.0</td>
+</tr> 
+<tr>
+  <td style="border: 1px solid black">2021</td>
+  <td style="border: 1px solid black">98.3</td>
+  <td style="border: 1px solid black">1474.5</td>
+</tr>
+<tr>
+  <td style="border: 1px solid black">2022</td>
+  <td style="border: 1px solid black">102.7</td>
+  <td style="border: 1px solid black">1538.9</td>
+</tr> 
+<tr>
+  <td style="border: 1px solid black">2023</td>
+  <td style="border: 1px solid black">105.1</td>
+  <td style="border: 1px solid black">1575.5</td>
+</tr> 
+<tr>
+  <td style="border: 1px solid black">2024</td>
+  <td style="border: 1px solid black">09.4</td>
+  <td style="border: 1px solid black">1641.0</td>
+</tr> 
+</table>
+</body>
+</html>
